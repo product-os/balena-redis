@@ -1,2 +1,2 @@
-# Resin Redis
+# Balena Redis
 
