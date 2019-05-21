@@ -1,0 +1,15 @@
+name: "Balena Redis"
+slug: balena-redis
+type: sw.containerized-application
+markers: []
+tags: []
+links: {}
+active: true
+requires: []
+capabilities: []
+data:
+  assets:
+    image:
+      url: 'balena/balena-redis:{{ version }}'
+    repo:
+      url: 'https://github.com/balena-io/balena-redis.git'
